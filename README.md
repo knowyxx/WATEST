@@ -1,3 +1,4 @@
 # WATEST
-## testik
-- test
+## spolupracovnici
+- Maximilian Johannes Klein
+-Rostyslav Kononenko
